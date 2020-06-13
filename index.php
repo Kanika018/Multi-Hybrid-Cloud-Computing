@@ -5,9 +5,9 @@ Welcome to MULTI CLOUD COMPUTING TASK1
 <pre>
 <?php
 
-print 'ifconfig';
+print `ifconfig`;
 
-print 'free -m';
+print `free -m`;
 
 
 ?>
